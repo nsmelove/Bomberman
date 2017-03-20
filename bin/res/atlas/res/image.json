@@ -1,0 +1,810 @@
+{
+    "frames": {
+        "web7.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 242,
+                "h": 244,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 242,
+                "h": 244
+            },
+            "sourceSize": {
+                "w": 242,
+                "h": 244
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "fish2.png": {
+            "frame": {
+                "x": 244,
+                "y": 0,
+                "w": 78,
+                "h": 512,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 78,
+                "h": 512
+            },
+            "sourceSize": {
+                "w": 78,
+                "h": 512
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "fish4.png": {
+            "frame": {
+                "x": 324,
+                "y": 0,
+                "w": 77,
+                "h": 472,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 77,
+                "h": 472
+            },
+            "sourceSize": {
+                "w": 77,
+                "h": 472
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "cannon7.png": {
+            "frame": {
+                "x": 403,
+                "y": 0,
+                "w": 74,
+                "h": 470,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 74,
+                "h": 470
+            },
+            "sourceSize": {
+                "w": 74,
+                "h": 470
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "web6.png": {
+            "frame": {
+                "x": 479,
+                "y": 0,
+                "w": 191,
+                "h": 181,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 191,
+                "h": 181
+            },
+            "sourceSize": {
+                "w": 191,
+                "h": 181
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "cannon6.png": {
+            "frame": {
+                "x": 672,
+                "y": 0,
+                "w": 74,
+                "h": 450,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 74,
+                "h": 450
+            },
+            "sourceSize": {
+                "w": 74,
+                "h": 450
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "fish3.png": {
+            "frame": {
+                "x": 748,
+                "y": 0,
+                "w": 72,
+                "h": 448,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 448
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 448
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "cannon5.png": {
+            "frame": {
+                "x": 479,
+                "y": 183,
+                "w": 74,
+                "h": 425,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 74,
+                "h": 425
+            },
+            "sourceSize": {
+                "w": 74,
+                "h": 425
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "web4.png": {
+            "frame": {
+                "x": 0,
+                "y": 246,
+                "w": 180,
+                "h": 174,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 174
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 174
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "cannon4.png": {
+            "frame": {
+                "x": 555,
+                "y": 183,
+                "w": 74,
+                "h": 415,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 74,
+                "h": 415
+            },
+            "sourceSize": {
+                "w": 74,
+                "h": 415
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "cannon2.png": {
+            "frame": {
+                "x": 0,
+                "y": 422,
+                "w": 74,
+                "h": 380,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 74,
+                "h": 380
+            },
+            "sourceSize": {
+                "w": 74,
+                "h": 380
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "cannon3.png": {
+            "frame": {
+                "x": 76,
+                "y": 422,
+                "w": 74,
+                "h": 380,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 74,
+                "h": 380
+            },
+            "sourceSize": {
+                "w": 74,
+                "h": 380
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "cannon1.png": {
+            "frame": {
+                "x": 152,
+                "y": 422,
+                "w": 74,
+                "h": 370,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 74,
+                "h": 370
+            },
+            "sourceSize": {
+                "w": 74,
+                "h": 370
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "web3.png": {
+            "frame": {
+                "x": 631,
+                "y": 452,
+                "w": 156,
+                "h": 162,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 162
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 162
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "web5.png": {
+            "frame": {
+                "x": 228,
+                "y": 514,
+                "w": 163,
+                "h": 155,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 163,
+                "h": 155
+            },
+            "sourceSize": {
+                "w": 163,
+                "h": 155
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "web2.png": {
+            "frame": {
+                "x": 393,
+                "y": 610,
+                "w": 137,
+                "h": 142,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 137,
+                "h": 142
+            },
+            "sourceSize": {
+                "w": 137,
+                "h": 142
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "coinText.png": {
+            "frame": {
+                "x": 228,
+                "y": 754,
+                "w": 396,
+                "h": 49,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 396,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 396,
+                "h": 49
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "fish1.png": {
+            "frame": {
+                "x": 789,
+                "y": 450,
+                "w": 55,
+                "h": 296,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 55,
+                "h": 296
+            },
+            "sourceSize": {
+                "w": 55,
+                "h": 296
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "web1.png": {
+            "frame": {
+                "x": 532,
+                "y": 616,
+                "w": 116,
+                "h": 118,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 116,
+                "h": 118
+            },
+            "sourceSize": {
+                "w": 116,
+                "h": 118
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "bullet.png": {
+            "frame": {
+                "x": 650,
+                "y": 616,
+                "w": 110,
+                "h": 116,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 110,
+                "h": 116
+            },
+            "sourceSize": {
+                "w": 110,
+                "h": 116
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "level_back.png": {
+            "frame": {
+                "x": 626,
+                "y": 748,
+                "w": 176,
+                "h": 37,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 176,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 176,
+                "h": 37
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "level_bg.png": {
+            "frame": {
+                "x": 626,
+                "y": 787,
+                "w": 176,
+                "h": 37,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 176,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 176,
+                "h": 37
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "number_black.png": {
+            "frame": {
+                "x": 822,
+                "y": 0,
+                "w": 20,
+                "h": 240,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 20,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 20,
+                "h": 240
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "energy-bar.png": {
+            "frame": {
+                "x": 0,
+                "y": 804,
+                "w": 213,
+                "h": 19,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 213,
+                "h": 19
+            },
+            "sourceSize": {
+                "w": 213,
+                "h": 19
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "cannon_plus.png": {
+            "frame": {
+                "x": 182,
+                "y": 246,
+                "w": 44,
+                "h": 31,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 44,
+                "h": 31
+            },
+            "sourceSize": {
+                "w": 44,
+                "h": 31
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "cannon_minus_down.png": {
+            "frame": {
+                "x": 182,
+                "y": 279,
+                "w": 44,
+                "h": 31,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 44,
+                "h": 31
+            },
+            "sourceSize": {
+                "w": 44,
+                "h": 31
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "cannon_minus.png": {
+            "frame": {
+                "x": 182,
+                "y": 312,
+                "w": 44,
+                "h": 31,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 44,
+                "h": 31
+            },
+            "sourceSize": {
+                "w": 44,
+                "h": 31
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "cannon_plus_down.png": {
+            "frame": {
+                "x": 182,
+                "y": 345,
+                "w": 44,
+                "h": 31,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 44,
+                "h": 31
+            },
+            "sourceSize": {
+                "w": 44,
+                "h": 31
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "bullet8.png": {
+            "frame": {
+                "x": 631,
+                "y": 183,
+                "w": 30,
+                "h": 44,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 44
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 44
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "bullet7.png": {
+            "frame": {
+                "x": 631,
+                "y": 229,
+                "w": 32,
+                "h": 38,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 38
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 38
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "level_bar.png": {
+            "frame": {
+                "x": 324,
+                "y": 474,
+                "w": 102,
+                "h": 11,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 102,
+                "h": 11
+            },
+            "sourceSize": {
+                "w": 102,
+                "h": 11
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "bullet6.png": {
+            "frame": {
+                "x": 631,
+                "y": 269,
+                "w": 31,
+                "h": 35,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 31,
+                "h": 35
+            },
+            "sourceSize": {
+                "w": 31,
+                "h": 35
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "bullet5.png": {
+            "frame": {
+                "x": 631,
+                "y": 306,
+                "w": 30,
+                "h": 34,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 34
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 34
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "bullet4.png": {
+            "frame": {
+                "x": 631,
+                "y": 342,
+                "w": 29,
+                "h": 33,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 29,
+                "h": 33
+            },
+            "sourceSize": {
+                "w": 29,
+                "h": 33
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "bullet3.png": {
+            "frame": {
+                "x": 631,
+                "y": 377,
+                "w": 27,
+                "h": 31,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 27,
+                "h": 31
+            },
+            "sourceSize": {
+                "w": 27,
+                "h": 31
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "bullet2.png": {
+            "frame": {
+                "x": 182,
+                "y": 378,
+                "w": 25,
+                "h": 29,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 25,
+                "h": 29
+            },
+            "sourceSize": {
+                "w": 25,
+                "h": 29
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "bullet1.png": {
+            "frame": {
+                "x": 209,
+                "y": 378,
+                "w": 24,
+                "h": 26,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 24,
+                "h": 26
+            },
+            "sourceSize": {
+                "w": 24,
+                "h": 26
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "level_shuxian.png": {
+            "frame": {
+                "x": 663,
+                "y": 183,
+                "w": 2,
+                "h": 11,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 2,
+                "h": 11
+            },
+            "sourceSize": {
+                "w": 2,
+                "h": 11
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "image.png",
+        "prefix": "res\/image\/"
+    }
+}

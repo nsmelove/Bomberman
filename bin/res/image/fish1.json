@@ -1,0 +1,181 @@
+{
+    "frames": {
+        "fish_move1.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 55,
+                "h": 37,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 55,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 55,
+                "h": 37
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "fish_move2.png": {
+            "frame": {
+                "x": 0,
+                "y": 37,
+                "w": 55,
+                "h": 37,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 55,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 55,
+                "h": 37
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "fish_move3.png": {
+            "frame": {
+                "x": 0,
+                "y": 74,
+                "w": 55,
+                "h": 37,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 55,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 55,
+                "h": 37
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "fish_move4.png": {
+            "frame": {
+                "x": 0,
+                "y": 111,
+                "w": 55,
+                "h": 37,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 55,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 55,
+                "h": 37
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "fish_struggle1.png": {
+            "frame": {
+                "x": 0,
+                "y": 148,
+                "w": 55,
+                "h": 37,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 55,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 55,
+                "h": 37
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "fish_struggle2.png": {
+            "frame": {
+                "x": 0,
+                "y": 185,
+                "w": 55,
+                "h": 37,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 55,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 55,
+                "h": 37
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "fish_struggle3.png": {
+            "frame": {
+                "x": 0,
+                "y": 222,
+                "w": 55,
+                "h": 37,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 55,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 55,
+                "h": 37
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "fish_struggle4.png": {
+            "frame": {
+                "x": 0,
+                "y": 259,
+                "w": 55,
+                "h": 37,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 55,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 55,
+                "h": 37
+            },
+            "rotated": false,
+            "trimed": false
+        }
+        
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "fish1.png",
+        "prefix": "fish1\/"
+    }
+}

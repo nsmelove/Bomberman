@@ -1,0 +1,265 @@
+{
+    "frames": {
+        "shark_move1.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 509,
+                "h": 270,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 509,
+                "h": 270
+            },
+            "sourceSize": {
+                "w": 509,
+                "h": 270
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "shark_move2.png": {
+            "frame": {
+                "x": 0,
+                "y": 270,
+                "w": 509,
+                "h": 270,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 509,
+                "h": 270
+            },
+            "sourceSize": {
+                "w": 509,
+                "h": 270
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "shark_move3.png": {
+            "frame": {
+                "x": 0,
+                "y": 540,
+                "w": 509,
+                "h": 270,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 509,
+                "h": 270
+            },
+            "sourceSize": {
+                "w": 509,
+                "h": 270
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "shark_move4.png": {
+            "frame": {
+                "x": 0,
+                "y": 810,
+                "w": 509,
+                "h": 270,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 509,
+                "h": 270
+            },
+            "sourceSize": {
+                "w": 509,
+                "h": 270
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "shark_move5.png": {
+            "frame": {
+                "x": 0,
+                "y": 1080,
+                "w": 509,
+                "h": 270,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 509,
+                "h": 270
+            },
+            "sourceSize": {
+                "w": 509,
+                "h": 270
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "shark_move6.png": {
+            "frame": {
+                "x": 0,
+                "y": 1350,
+                "w": 509,
+                "h": 270,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 509,
+                "h": 270
+            },
+            "sourceSize": {
+                "w": 509,
+                "h": 270
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "shark_move7.png": {
+            "frame": {
+                "x": 0,
+                "y": 1620,
+                "w": 509,
+                "h": 270,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 509,
+                "h": 270
+            },
+            "sourceSize": {
+                "w": 509,
+                "h": 270
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "shark_move8.png": {
+            "frame": {
+                "x": 0,
+                "y": 1890,
+                "w": 509,
+                "h": 270,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 509,
+                "h": 270
+            },
+            "sourceSize": {
+                "w": 509,
+                "h": 270
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "shark_struggle1.png": {
+            "frame": {
+                "x": 0,
+                "y": 2160,
+                "w": 509,
+                "h": 270,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 509,
+                "h": 270
+            },
+            "sourceSize": {
+                "w": 509,
+                "h": 270
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "shark_struggle2.png": {
+            "frame": {
+                "x": 0,
+                "y": 2430,
+                "w": 509,
+                "h": 270,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 509,
+                "h": 270
+            },
+            "sourceSize": {
+                "w": 509,
+                "h": 270
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "shark_struggle3.png": {
+            "frame": {
+                "x": 0,
+                "y": 2700,
+                "w": 509,
+                "h": 270,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 509,
+                "h": 270
+            },
+            "sourceSize": {
+                "w": 509,
+                "h": 270
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "shark_struggle4.png": {
+            "frame": {
+                "x": 0,
+                "y": 2970,
+                "w": 509,
+                "h": 270,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 509,
+                "h": 270
+            },
+            "sourceSize": {
+                "w": 509,
+                "h": 270
+            },
+            "rotated": false,
+            "trimed": false
+        }
+        
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "shark1.png",
+        "prefix": "shark1\/"
+    }
+}

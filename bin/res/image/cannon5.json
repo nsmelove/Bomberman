@@ -1,0 +1,117 @@
+{
+    "frames": {
+        "cannon1.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 74,
+                "h": 85,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 74,
+                "h": 85
+            },
+            "sourceSize": {
+                "w": 74,
+                "h": 85
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "cannon2.png": {
+            "frame": {
+                "x": 0,
+                "y": 85,
+                "w": 74,
+                "h": 85,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 74,
+                "h": 85
+            },
+            "sourceSize": {
+                "w": 74,
+                "h": 85
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "cannon3.png": {
+            "frame": {
+                "x": 0,
+                "y": 170,
+                "w": 74,
+                "h": 85,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 74,
+                "h": 85
+            },
+            "sourceSize": {
+                "w": 74,
+                "h": 85
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "cannon4.png": {
+            "frame": {
+                "x": 0,
+                "y": 255,
+                "w": 74,
+                "h": 85,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 74,
+                "h": 85
+            },
+            "sourceSize": {
+                "w": 74,
+                "h": 85
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "cannon5.png": {
+            "frame": {
+                "x": 0,
+                "y": 340,
+                "w": 74,
+                "h": 85,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 74,
+                "h": 85
+            },
+            "sourceSize": {
+                "w": 74,
+                "h": 85
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "cannon5.png",
+        "prefix": "cannon5\/"
+    }
+}
